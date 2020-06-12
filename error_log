@@ -1,0 +1,5 @@
+[12-Jun-2020 11:17:04] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/virtu817/public_html/baba/artisan on line 33
+[12-Jun-2020 11:17:04] PHP Parse error:  syntax error, unexpected T_STRING in /home1/virtu817/public_html/baba/artisan on line 33
+[12-Jun-2020 11:23:49] PHP Fatal error:  Class 'Phar' not found in /opt/cpanel/composer/bin/composer on line 23
+[12-Jun-2020 11:23:55] PHP Fatal error:  Class 'Phar' not found in /opt/cpanel/composer/bin/composer on line 23
+[12-Jun-2020 11:24:16] PHP Fatal error:  Class 'Phar' not found in /opt/cpanel/composer/bin/composer on line 23
